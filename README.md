@@ -57,7 +57,7 @@ Total Quantity Sold: Classic pizzas lead with 14,888 units sold.
 
 <a href = https://github.com/Shanu998/PIZZA-SALES-PERFORMANCE-/blob/main/orders_analysis.csv.xlsx> Download the Microsoft Excel file </a>
 
-<a href = https://github.com/Shanu998/PIZZA-SALES-PERFORMANCE-/blob/main/pizzas_analysis.csv.xlsx> Download the Microsoft Excel file </a>
+<a href = https://github.com/Shanu998/PIZZA-SALES-PERFORMANCE-/blob/main/order_details_Analysis.csv.xlsx> Download the Microsoft Excel file </a>
 
 ## DASHBOARD OVERVIEW
 ![Overview Dashboard](https://github.com/Shanu998/PIZZA-SALES-PERFORMANCE-/blob/main/PIZZA%20PAGE%201.png)
