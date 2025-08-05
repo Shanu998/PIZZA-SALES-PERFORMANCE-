@@ -55,7 +55,7 @@ Total Quantity Sold: Classic pizzas lead with 14,888 units sold.
 
 
 ## DASHBOARD OVERVIEW
-![Overview Dashboard](https://github.com/Shanu998/Diabetes-Risk-Assessment-/blob/main/Diabetes.png)
+![Overview Dashboard](https://github.com/Shanu998/PIZZA-SALES-PERFORMANCE-/blob/main/PIZZA%20PAGE%201.png)
 
 
 
